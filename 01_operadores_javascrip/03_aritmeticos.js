@@ -32,9 +32,3 @@ var divisor = 5;
 
 var resto = dividendo % divisor
 console.log(resto);
-
-
-console.log('-----------MULTIPLICAÇÃO-------------');
-
-var mult = x*y;
-console.log(mult);
